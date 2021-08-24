@@ -1,0 +1,25 @@
+git remote add origin https://github.com/BanderSaleh/Javascript_PJ_1.git
+git branch -M main
+git push -u origin main
+
+
+
+
+
+^ignore/delete above^
+
+
+
+
+
+echo "# Javascript_PJ_1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/BanderSaleh/Javascript_PJ_1.git
+git push -u origin main
+
+
+
+
